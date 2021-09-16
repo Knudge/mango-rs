@@ -1,0 +1,19 @@
+node_modules
+.DS_Store
+
+# asdf
+.tool-versions
+
+# IntelliJ
+.idea/**
+*.iml
+
+# VSCode
+.vscode/
+
+# Windows stuff from npm i --prefix
+*.cmd
+*.ps1
+
+# Vim
+*.swp
