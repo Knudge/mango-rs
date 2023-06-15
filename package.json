@@ -1,6 +1,7 @@
 {
   "name": "mango-rs",
   "description": "Simplified form of run-rs",
+  "version": "0.0.1",
   "main": "index.mjs",
   "bin": {
     "run-rs": "./index.mjs"
