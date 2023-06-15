@@ -28,5 +28,5 @@ npm i
 ### Run
 
 ```sh
-npm run start --version '6.0.2'
+npm run start -- --version '6.0.2'
 ```
