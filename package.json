@@ -1,10 +1,10 @@
 {
   "name": "mango-rs",
   "description": "Simplified form of run-rs",
-  "version": "0.0.2",
-  "main": "index.mjs",
+  "version": "0.0.3",
+  "main": "src/index.mjs",
   "bin": {
-    "mango-rs": "./index.mjs"
+    "mango-rs": "./src/index.mjs"
   },
   "scripts": {
     "start": "node ./src/index.mjs"
