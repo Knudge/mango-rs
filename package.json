@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "main": "index.mjs",
   "bin": {
-    "run-rs": "./index.mjs"
+    "mango-rs": "./index.mjs"
   },
   "scripts": {
     "start": "node ./src/index.mjs"
